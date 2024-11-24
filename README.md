@@ -56,7 +56,7 @@ Json-Compressor significantly reduces the size of JSON data, which is particular
 ## Why Use json-bits?
 
 ### 🚀 Efficient Compression
-- Compresses JSON data into compact binary formats using gzip compression.
+- Compresses JSON data into compact binary formats.
 - Reduces the size of large JSON payloads significantly, saving bandwidth and storage.
 
 ### 💡 Flexible Format
