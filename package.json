@@ -8,6 +8,10 @@
     "test": "jest",
     "start": "webpack serve"
   },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/tarunmishra592/json-bits.git"
+  },
   "keywords": [
     "json",
     "compression"
