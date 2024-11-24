@@ -1,0 +1,15 @@
+<div>
+    <button (click)="compressJsonData()">Compress Data</button>
+    <button (click)="decompressJsonData()" [disabled]="!compressedData">Decompress Data</button>
+  </div>
+  
+  <div>
+    <h3>Compressed Data:</h3>
+    <pre>{{ compressedData | json }}</pre>
+  </div>
+  
+  <div>
+    <h3>Decompressed Data:</h3>
+    <pre>{{ decompressedData | json }}</pre>
+  </div>
+  
