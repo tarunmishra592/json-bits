@@ -11,8 +11,6 @@
   "keywords": [
     "json",
     "compression",
-    "gzip",
-    "base64"
   ],
   "author": "Tarun Kumar",
   "license": "MIT",
