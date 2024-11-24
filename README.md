@@ -1,3 +1,9 @@
+## Compression Efficiency
+Json-Compressor significantly reduces the size of JSON data, which is particularly useful when working with large datasets. For example:
+
+  - A **1 GB** JSON file could be compressed down to just a few KB (typically around 1-5% of the original size), depending on the structure and content of the data.
+
+
 # Installation
 
 
